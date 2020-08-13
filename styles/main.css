@@ -39,8 +39,8 @@ main a:not(.button):not(.arrow):focus,
 main a:not(.button):not(.arrow):hover,
 footer a:not(.button):not(.arrow):focus,
 footer a:not(.button):not(.arrow):hover,
-main a:not(a img):focus,
-main a:not(a img):hover {
+main a:not(img):focus,
+main a:not(img):hover {
     background: var(--color-blue);
     color: white;
     transition: all 0.25s;
