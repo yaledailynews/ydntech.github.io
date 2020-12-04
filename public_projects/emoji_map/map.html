@@ -188,7 +188,7 @@
 
     <div id="map">
         <div class="leaflet-top leaflet-right">
-            <input type="button" id="toggle_button" value="Click here to add a marker!" onclick="toggle_add_mode()" class="btn btn-primary" />
+            <input type="button" id="toggle_button" value="Click here to add en emoji!" onclick="toggle_add_mode()" class="btn btn-primary" />
         </div>
     </div>
 
@@ -255,12 +255,12 @@
                 JUST_CLICKED = true
                 map.on('click', main_map_listener)
 
-                $("#toggle_button").css("background-color", "#ff8400")
+                $("#toggle_button").css("background-color", "#ff8400").attr("value", "Now click on the map at the desired location!")
             } else {
                 map.addLayer(markers)
                 map.off('click', main_map_listener)
 
-                $("#toggle_button").css("background-color", "#007bff")
+                $("#toggle_button").css("background-color", "#007bff").attr("value", "Click here to add en emoji!")
             }
 
             ADD_TOGGLE = !ADD_TOGGLE
