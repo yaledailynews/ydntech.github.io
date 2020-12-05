@@ -215,11 +215,6 @@
             maxZoom: 21
         }).addTo(map);
 
-        // L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        //     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-        //     maxZoom: 21
-        // }).addTo(map);
-
         var popupGlobal; // this is ok for debugging
 
         //handle click events
@@ -364,14 +359,14 @@
                             draggable: false
                         })
                         .bindPopup(element['desc'])
+                        .on('popupopen', function() {
+                            $('#toggle_button').css('visibility', 'hidden')
+                        })
+                        .on('popupclose', function() {
+                            $('#toggle_button').css('visibility', 'visible')
+                        })
 
                     markers.addLayer(marker)
-                        // //can change the length requirement
-                        // if (element.length == 5 && element[0] != '' && !isNaN(parseFloat(element[1])) && !isNaN(parseFloat(element[2])) && element[3] != '') { //goes type, lat, lon, decription, time, approved (just have be one) can have && element[5] == '1' for approvied
-
-                    //     locations.push([element[0], parseFloat(element[1]), parseFloat(element[2]), element[3]]) //idk where the description goes
-                    // }
-
 
                 });
                 console.log("done loading data")
