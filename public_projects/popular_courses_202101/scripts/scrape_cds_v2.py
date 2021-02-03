@@ -22,7 +22,7 @@ startTime = datetime.now()
 # Be sure to escape '\' with another '\'
 # Be sure to create the folder beforehand — otherwise, Python will return an error
 
-wd = "/home/darwin/Documents/Yale/YDN/yale-popular-classes/scripts"
+wd = "/home/darwin/Documents/Yale/YDN/ydntech.github.io/public_projects/popular_courses_202101/scripts"
 os.chdir(wd)
 
 # 3. Set semester -----
