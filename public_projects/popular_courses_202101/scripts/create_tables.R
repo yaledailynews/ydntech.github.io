@@ -40,7 +40,7 @@ coursetable <- read_csv("../raw-data/coursetable.csv") %>%
 
 # for some reason DISR 999 gets through, manually remove it here
 top_ids <- demand %>%
-	filter(date == max(date) & id != 580) %>%
+	filter(date == max(date) & id != 583) %>%
 	arrange(desc(count)) %>%
 	top_n(10)
 
