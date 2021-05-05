@@ -1,0 +1,46 @@
+
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Yale's COVID Emails</title>
+  <meta name="description" content="Making a Bubble chart using D3v4. Based on Jim Vallandingham's work, based on a NYT visualization.">
+  <meta name="author" content="Leon Lufkin">
+
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/bubble_chart.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Bubbles</h1>
+    <div id="toolbar">
+      <a href="#" id="all" class="button">all emails</a>
+      <a href="#" id="HOCsadmin" class="button active">HOCs / admin</a>
+    </div>
+    <div id="vis"></div>
+    <div id="quotes">
+      <div class="row">
+        <div class="column"></div>
+        <div class="column"></div>
+      </div>
+    </div>
+
+    <div class="footer">
+      <p>Yale COVID Emails</p>
+      <strong>Made by Leon + ?</strong>
+      <p><a href="http://vallandingham.me/bubble_charts_with_d3v4.html">YDN link?</a> | <a href="https://github.com/vlandham/bubble_chart_v4">Code</a></p>
+    </div>
+  </div>
+
+  <!-- <script src="main.js"></script> -->
+  <!--   <script src="//d3js.org/d3.v4.min.js"></script> -->
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script src="src/tooltip.js"></script>
+  <script src="src/quotes.js"></script>
+  <script type="text/javascript" src="data/top100_quotes.json"></script>
+  <script src="src/bubble_chart_custom.js"></script>
+
+</body>
+</html>
