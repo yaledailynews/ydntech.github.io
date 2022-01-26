@@ -1,11 +1,11 @@
 id,yesterday,today,change,absChange,name,codes
-4535,145,154,9,9,Intermediate Machine Learning,S&DS 365 01
-4528,220,228,8,8,Theory of Statistics,S&DS 242 01 / MATH 242 01
-4529,121,129,8,8,Applied Machine Learning and Causal Inference,S&DS 317 01
-4532,128,136,8,8,Data Analysis,S&DS 361 01 / AMTH 361 01
-4526,334,341,7,7,Data Exploration and Analysis,S&DS 230 01
-4533,166,173,7,7,Multivariate Statistics for Social Sciences,S&DS 363 01
-4527,32,38,6,6,Data Exploration and Analysis,S&DS 230 02
-1894,100,105,5,5,Renewable Energy,EPS 275 01
-1896,28,33,5,5,Observing Earth from Space,EPS 362 01 / ARCG 362 01 / EVST 362 01
-1974,133,138,5,5,Environmental Law and Politics,EVST 255 01 / F&ES 255 01 / GLBL 282 01 / PLSC 215 01
+4168,149,178,29,29,Constitutional Law,PLSC 233 01
+4276,919,892,-27,27,Psychology and the Good Life,PSYC 157 01
+4585,190,206,16,16,Multivariate Statistics for Social Sciences,S&DS 363 01
+2478,113,128,15,15,Global Catastrophe since 1750,URBN 229 01 / EVST 211 01 / EPS 211 01 / HSHM 211 01 / HIST 416 01
+4573,191,206,15,15,YData: An Introduction to Data Science,PLSC 351 01 / CPSC 123 01 / S&DS 123 01
+4587,192,207,15,15,Intermediate Machine Learning,S&DS 365 01
+4579,71,85,14,14,Data Exploration and Analysis,S&DS 230 02
+4581,149,161,12,12,Applied Machine Learning and Causal Inference,S&DS 317 01
+4493,116,127,11,11,How to Build an American Religion,RLST 115 01 / AMST 116 01
+4576,45,54,9,9,YData: Humanities Data Mining,S&DS 176 01
