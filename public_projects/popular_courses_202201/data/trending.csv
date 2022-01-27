@@ -1,11 +1,11 @@
 id,yesterday,today,change,absChange,name,codes
-4168,149,178,29,29,Constitutional Law,PLSC 233 01
-4276,919,892,-27,27,Psychology and the Good Life,PSYC 157 01
-4585,190,206,16,16,Multivariate Statistics for Social Sciences,S&DS 363 01
-2478,113,128,15,15,Global Catastrophe since 1750,URBN 229 01 / EVST 211 01 / EPS 211 01 / HSHM 211 01 / HIST 416 01
-4573,191,206,15,15,YData: An Introduction to Data Science,PLSC 351 01 / CPSC 123 01 / S&DS 123 01
-4587,192,207,15,15,Intermediate Machine Learning,S&DS 365 01
-4579,71,85,14,14,Data Exploration and Analysis,S&DS 230 02
-4581,149,161,12,12,Applied Machine Learning and Causal Inference,S&DS 317 01
-4493,116,127,11,11,How to Build an American Religion,RLST 115 01 / AMST 116 01
-4576,45,54,9,9,YData: Humanities Data Mining,S&DS 176 01
+4292,892,862,-30,30,Psychology and the Good Life,PSYC 157 01
+4596,85,115,30,30,Data Exploration and Analysis,S&DS 230 02
+4598,161,175,14,14,Applied Machine Learning and Causal Inference,S&DS 317 01
+4287,295,305,10,10,Introduction to Psychology,PSYC 110 01
+4597,248,258,10,10,Theory of Statistics,S&DS 242 01 / MATH 242 01
+4120,190,199,9,9,General Physics Laboratory,PHYS 166L 01
+4589,154,163,9,9,Introductory Statistics,S&DS 100 01
+4301,163,171,8,8,Clinical Neuroscience,PSYC 316 01 / NSCI 360 01
+4595,377,385,8,8,Data Exploration and Analysis,S&DS 230 01
+4669,41,33,-8,8,Cultural Sociology,SOCY 202 01
