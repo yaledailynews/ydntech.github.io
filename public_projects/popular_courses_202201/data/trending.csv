@@ -1,11 +1,11 @@
 id,yesterday,today,change,absChange,name,codes
-4311,808,771,-37,37,Psychology and the Good Life,PSYC 157 01
-4320,162,154,-8,8,Clinical Neuroscience,PSYC 316 01 / NSCI 360 01
-4625,163,155,-8,8,Applied Machine Learning and Causal Inference,S&DS 317 01
-1908,90,83,-7,7,History of Life,EPS 125 01 / E&EB 125 01
-4212,101,108,7,7,"The Politics of ""The Wire"": HBO's Portrayal of the American City",PLSC 263 01 / AFAM 164 01 / URBN 304 01
-2488,154,148,-6,6,History of Reproductive Health and Medicine in the U.S.,HIST 114 01 / HSHM 206 01
-2628,88,82,-6,6,Italian Film from Postwar to Postmodern,LITR 359 01 / FILM 457 01 / ITAL 303 01
-4139,205,211,6,6,General Physics Laboratory,PHYS 166L 01
-4261,15,21,6,6,One-Term Senior Essay,PLSC 480 01
-4537,135,129,-6,6,How to Build an American Religion,RLST 115 01 / AMST 116 01
+4304,756,732,-24,24,Psychology and the Good Life,PSYC 157 01
+4317,99,90,-9,9,Cognitive Neuroscience,PSYC 335 01 / NSCI 340 01
+4299,314,306,-8,8,Introduction to Psychology,PSYC 110 01
+4319,126,119,-7,7,Learning and Memory,PSYC 376 01 / NSCI 341 01
+4244,53,47,-6,6,The Politics of Ethnic and National Identity,SOCY 223 01 / PLSC 437 01 / ER&M 206 01
+4680,79,73,-6,6,Introduction to Sociology,SOCY 101 01
+4610,190,185,-5,5,YData: An Introduction to Data Science,S&DS 123 01 / CPSC 123 01 / PLSC 351 01
+4615,388,383,-5,5,Data Exploration and Analysis,S&DS 230 01
+4618,145,140,-5,5,Applied Machine Learning and Causal Inference,S&DS 317 01
+4619,86,81,-5,5,Stochastic Processes,S&DS 351 01 / EENG 434 01 / MATH 251 01

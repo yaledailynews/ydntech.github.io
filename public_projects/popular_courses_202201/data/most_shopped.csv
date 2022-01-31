@@ -1,11 +1,11 @@
 id,date,count,name,codes
-4311,2022-01-29,757,Psychology and the Good Life,PSYC 157 01
-4622,2022-01-29,391,Data Exploration and Analysis,S&DS 230 01
-1254,2022-01-29,377,Introductory Macroeconomics,ECON 116 01
-1889,2022-01-29,367,Professional Skills Series,EPH 101 01
-4210,2022-01-29,323,Bioethics and Law,PLSC 257 01
-4306,2022-01-29,315,Introduction to Psychology,PSYC 110 01
-4624,2022-01-29,261,Theory of Statistics,S&DS 242 01 / MATH 242 01
-4312,2022-01-29,258,The Human Brain,NSCI 160 01 / PSYC 160 01
-886,2022-01-29,241,Data Structures and Programming Techniques,CPSC 223 01
-3166,2022-01-29,238,"Biology, the World, and Us",MCDB 105 01 / MB&B 105 01
+4304,2022-01-31,720,Psychology and the Good Life,PSYC 157 01
+4615,2022-01-31,384,Data Exploration and Analysis,S&DS 230 01
+1254,2022-01-31,373,Introductory Macroeconomics,ECON 116 01
+1885,2022-01-31,368,Professional Skills Series,EPH 101 01
+4203,2022-01-31,310,Bioethics and Law,PLSC 257 01
+4299,2022-01-31,306,Introduction to Psychology,PSYC 110 01
+4617,2022-01-31,258,Theory of Statistics,MATH 242 01 / S&DS 242 01
+4305,2022-01-31,256,The Human Brain,PSYC 160 01 / NSCI 160 01
+886,2022-01-31,241,Data Structures and Programming Techniques,CPSC 223 01
+3161,2022-01-31,236,"Biology, the World, and Us",MB&B 105 01 / MCDB 105 01
